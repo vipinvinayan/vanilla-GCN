@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & checkpoints
+data/
+*.pt
+*.pth
+checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+*.png
+*.jpg
+*.svg
+logs/
